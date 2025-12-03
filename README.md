@@ -17,7 +17,7 @@
 
 ## Installation
 ```
-omarchy-theme-install https://github.com/joaofelipegalvao/omarchy-oasisabyss-theme.git
+omarchy-theme-install https://github.com/joaofelipegalvao/omarchy-oasis-abyss-theme.git
 ```
 
 ## Acknowledgments
